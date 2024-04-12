@@ -70,7 +70,7 @@ If you find BSG useful or inspiring, please consider citing our paper:
 ```
 
 ## Acknowledgement
-We thank the developers of these excellent open source projects: [MMDetection3D](https://github.com/open-mmlab/mmdetection3d), [BEVFormer](https://github.com/fundamentalvision/BEVFormer/tree/master), [DUET]([VLN-DUET](https://github.com/cshizhe/VLN-DUET)), [HAMT](https://github.com/cshizhe/VLN-HAMT), [ETPNav](https://github.com/MarSaKi/ETPNav), [MP3D Simulator](https://github.com/peteanderson80/Matterport3DSimulator), [VLNBERT](https://github.com/YicongHong/Recurrent-VLN-BERT). Many thanks to the reviewers for their valuable comments.
+We thank the developers of these excellent open source projects: [MMDetection3D](https://github.com/open-mmlab/mmdetection3d), [BEVFormer](https://github.com/fundamentalvision/BEVFormer/tree/master), [DUET](https://github.com/cshizhe/VLN-DUET), [HAMT](https://github.com/cshizhe/VLN-HAMT), [ETPNav](https://github.com/MarSaKi/ETPNav), [MP3D Simulator](https://github.com/peteanderson80/Matterport3DSimulator), [VLNBERT](https://github.com/YicongHong/Recurrent-VLN-BERT). Many thanks to the reviewers for their valuable comments.
 
 ## Contact
 This repository is currently maintained by [Rui Liu](mailto:rui.liu@zju.edu.cn).
